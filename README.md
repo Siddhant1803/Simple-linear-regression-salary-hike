@@ -1,10 +1,10 @@
 # Simple-linear-regression-salary-hike
-## Building a Prediction model for Salary Hike
-### Step 1 Importing Data
-### Step 2 Performing EDA on data
+## Building Prediction model for Salary Hike
+### step 1 Importing Data
+### step 2 Performing EDA on data
       a) Checking information of data 
       b) Renaming columns
-### Step 3 Data visualization
+### step 3 Data visualization
     - To see distribution of data and to check outliers.
 ### step 4 Checking co-relation by plotting 'Regression Plot'
 ### step 5 Validating Assumption of Linearity
